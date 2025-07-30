@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\Basic Syntax, Conditional Statements and Loops - Exercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B86D5F8-3AD9-48E9-A9F3-819FE2FDA7A6}|11. Orders\\11. Orders.csproj|c:\\users\\sabridurmaz-pc\\source\\repos\\basic syntax, conditional statements and loops - exercise\\11. orders\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B86D5F8-3AD9-48E9-A9F3-819FE2FDA7A6}|11. Orders\\11. Orders.csproj|solutionrelative:11. orders\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748B7CC4-3E5E-44E3-9F2F-F6FEE8197D26}|10. Rage Expenses\\10. Rage Expenses.csproj|c:\\users\\sabridurmaz-pc\\source\\repos\\basic syntax, conditional statements and loops - exercise\\10. rage expenses\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{748B7CC4-3E5E-44E3-9F2F-F6FEE8197D26}|10. Rage Expenses\\10. Rage Expenses.csproj|solutionrelative:10. rage expenses\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C275F6B2-D5EC-4DB7-8B58-E797DE9172AF}|09. Padawan Equipment\\09. Padawan Equipment.csproj|c:\\users\\sabridurmaz-pc\\source\\repos\\basic syntax, conditional statements and loops - exercise\\09. padawan equipment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C275F6B2-D5EC-4DB7-8B58-E797DE9172AF}|09. Padawan Equipment\\09. Padawan Equipment.csproj|solutionrelative:09. padawan equipment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A4A753F-979E-4512-97DB-1E733D0608FA}|08. Triangle of Numbers\\08. Triangle of Numbers.csproj|c:\\users\\sabridurmaz-pc\\source\\repos\\basic syntax, conditional statements and loops - exercise\\08. triangle of numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A4A753F-979E-4512-97DB-1E733D0608FA}|08. Triangle of Numbers\\08. Triangle of Numbers.csproj|solutionrelative:08. triangle of numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{084CD7D4-26C2-4851-BA7F-2D79654640D8}|07. Vending Machine\\07. Vending Machine.csproj|c:\\users\\sabridurmaz-pc\\source\\repos\\basic syntax, conditional statements and loops - exercise\\07. vending machine\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{084CD7D4-26C2-4851-BA7F-2D79654640D8}|07. Vending Machine\\07. Vending Machine.csproj|solutionrelative:07. vending machine\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C8A5696-F2FF-47DE-BEB5-BCB3E65A408D}|06. Strong number\\06. Strong number.csproj|c:\\users\\sabridurmaz-pc\\source\\repos\\basic syntax, conditional statements and loops - exercise\\06. strong number\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C8A5696-F2FF-47DE-BEB5-BCB3E65A408D}|06. Strong number\\06. Strong number.csproj|solutionrelative:06. strong number\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D64DB989-9568-48BB-854D-A94BAC525A6D}|05. Login\\05. Login.csproj|c:\\users\\sabridurmaz-pc\\source\\repos\\basic syntax, conditional statements and loops - exercise\\05. login\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D64DB989-9568-48BB-854D-A94BAC525A6D}|05. Login\\05. Login.csproj|solutionrelative:05. login\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B7571FF-C07F-4232-92EF-0D7FC58CB397}|04. Print and sum\\04. Print and sum.csproj|c:\\users\\sabridurmaz-pc\\source\\repos\\basic syntax, conditional statements and loops - exercise\\04. print and sum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B7571FF-C07F-4232-92EF-0D7FC58CB397}|04. Print and sum\\04. Print and sum.csproj|solutionrelative:04. print and sum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB314067-2B84-4485-A0AC-32A27EFE90E8}|03. Vacation\\03. Vacation.csproj|c:\\users\\sabridurmaz-pc\\source\\repos\\basic syntax, conditional statements and loops - exercise\\03. vacation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB314067-2B84-4485-A0AC-32A27EFE90E8}|03. Vacation\\03. Vacation.csproj|solutionrelative:03. vacation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3117D182-8C1C-4A9C-B641-06962486DE7C}|02. Division\\02. Division.csproj|c:\\users\\sabridurmaz-pc\\source\\repos\\basic syntax, conditional statements and loops - exercise\\02. division\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3117D182-8C1C-4A9C-B641-06962486DE7C}|02. Division\\02. Division.csproj|solutionrelative:02. division\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51BBB55B-EA22-4A36-85E2-77D17FE65227}|01. Ages\\01. Ages.csproj|c:\\users\\sabridurmaz-pc\\source\\repos\\basic syntax, conditional statements and loops - exercise\\01. ages\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51BBB55B-EA22-4A36-85E2-77D17FE65227}|01. Ages\\01. Ages.csproj|solutionrelative:01. ages\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\Basic Syntax, Conditional Statements and Loops - Exercise\\11. Orders\\Program.cs",
+              "RelativeDocumentMoniker": "11. Orders\\Program.cs",
+              "ToolTip": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\Basic Syntax, Conditional Statements and Loops - Exercise\\11. Orders\\Program.cs",
+              "RelativeToolTip": "11. Orders\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T11:27:54.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\Basic Syntax, Conditional Statements and Loops - Exercise\\10. Rage Expenses\\Program.cs",
+              "RelativeDocumentMoniker": "10. Rage Expenses\\Program.cs",
+              "ToolTip": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\Basic Syntax, Conditional Statements and Loops - Exercise\\10. Rage Expenses\\Program.cs",
+              "RelativeToolTip": "10. Rage Expenses\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T11:27:38.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\Basic Syntax, Conditional Statements and Loops - Exercise\\09. Padawan Equipment\\Program.cs",
+              "RelativeDocumentMoniker": "09. Padawan Equipment\\Program.cs",
+              "ToolTip": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\Basic Syntax, Conditional Statements and Loops - Exercise\\09. Padawan Equipment\\Program.cs",
+              "RelativeToolTip": "09. Padawan Equipment\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T11:27:11.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\Basic Syntax, Conditional Statements and Loops - Exercise\\08. Triangle of Numbers\\Program.cs",
+              "RelativeDocumentMoniker": "08. Triangle of Numbers\\Program.cs",
+              "ToolTip": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\Basic Syntax, Conditional Statements and Loops - Exercise\\08. Triangle of Numbers\\Program.cs",
+              "RelativeToolTip": "08. Triangle of Numbers\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T11:26:48.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\Basic Syntax, Conditional Statements and Loops - Exercise\\07. Vending Machine\\Program.cs",
+              "RelativeDocumentMoniker": "07. Vending Machine\\Program.cs",
+              "ToolTip": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\Basic Syntax, Conditional Statements and Loops - Exercise\\07. Vending Machine\\Program.cs",
+              "RelativeToolTip": "07. Vending Machine\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T11:25:21.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\Basic Syntax, Conditional Statements and Loops - Exercise\\06. Strong number\\Program.cs",
+              "RelativeDocumentMoniker": "06. Strong number\\Program.cs",
+              "ToolTip": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\Basic Syntax, Conditional Statements and Loops - Exercise\\06. Strong number\\Program.cs",
+              "RelativeToolTip": "06. Strong number\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T11:25:02.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\Basic Syntax, Conditional Statements and Loops - Exercise\\05. Login\\Program.cs",
+              "RelativeDocumentMoniker": "05. Login\\Program.cs",
+              "ToolTip": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\Basic Syntax, Conditional Statements and Loops - Exercise\\05. Login\\Program.cs",
+              "RelativeToolTip": "05. Login\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T11:24:44.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\Basic Syntax, Conditional Statements and Loops - Exercise\\04. Print and sum\\Program.cs",
+              "RelativeDocumentMoniker": "04. Print and sum\\Program.cs",
+              "ToolTip": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\Basic Syntax, Conditional Statements and Loops - Exercise\\04. Print and sum\\Program.cs",
+              "RelativeToolTip": "04. Print and sum\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T11:23:53.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\Basic Syntax, Conditional Statements and Loops - Exercise\\03. Vacation\\Program.cs",
+              "RelativeDocumentMoniker": "03. Vacation\\Program.cs",
+              "ToolTip": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\Basic Syntax, Conditional Statements and Loops - Exercise\\03. Vacation\\Program.cs",
+              "RelativeToolTip": "03. Vacation\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T11:23:33.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\Basic Syntax, Conditional Statements and Loops - Exercise\\02. Division\\Program.cs",
+              "RelativeDocumentMoniker": "02. Division\\Program.cs",
+              "ToolTip": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\Basic Syntax, Conditional Statements and Loops - Exercise\\02. Division\\Program.cs",
+              "RelativeToolTip": "02. Division\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T11:22:26.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\Basic Syntax, Conditional Statements and Loops - Exercise\\01. Ages\\Program.cs",
+              "RelativeDocumentMoniker": "01. Ages\\Program.cs",
+              "ToolTip": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\Basic Syntax, Conditional Statements and Loops - Exercise\\01. Ages\\Program.cs",
+              "RelativeToolTip": "01. Ages\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T11:21:54.958Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
