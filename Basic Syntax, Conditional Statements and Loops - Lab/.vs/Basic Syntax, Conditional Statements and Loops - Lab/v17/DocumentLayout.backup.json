@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\Basic Syntax, Conditional Statements and Loops - Lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EF01F4AC-C15C-4127-A1EE-5E7ED0090EBD}|09. Sum of Odd Numbers\\09. Sum of Odd Numbers.csproj|c:\\users\\sabridurmaz-pc\\source\\repos\\basic syntax, conditional statements and loops - lab\\09. sum of odd numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF01F4AC-C15C-4127-A1EE-5E7ED0090EBD}|09. Sum of Odd Numbers\\09. Sum of Odd Numbers.csproj|solutionrelative:09. sum of odd numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{191E9E31-A863-4EA2-888D-16463A84E996}|08. Divisible by 3\\08. Divisible by 3.csproj|c:\\users\\sabridurmaz-pc\\source\\repos\\basic syntax, conditional statements and loops - lab\\08. divisible by 3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{191E9E31-A863-4EA2-888D-16463A84E996}|08. Divisible by 3\\08. Divisible by 3.csproj|solutionrelative:08. divisible by 3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{370A244C-DFA5-473A-BD9A-B01CC4EDD3E6}|07. Theatre Promotion\\07. Theatre Promotion.csproj|c:\\users\\sabridurmaz-pc\\source\\repos\\basic syntax, conditional statements and loops - lab\\07. theatre promotion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{370A244C-DFA5-473A-BD9A-B01CC4EDD3E6}|07. Theatre Promotion\\07. Theatre Promotion.csproj|solutionrelative:07. theatre promotion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC7C9EC1-9322-4EDC-ACA8-0866FDB9F34C}|06. Foreign Languages\\06. Foreign Languages.csproj|c:\\users\\sabridurmaz-pc\\source\\repos\\basic syntax, conditional statements and loops - lab\\06. foreign languages\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC7C9EC1-9322-4EDC-ACA8-0866FDB9F34C}|06. Foreign Languages\\06. Foreign Languages.csproj|solutionrelative:06. foreign languages\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16ABF1E6-918B-4985-B0B2-9258C09BED63}|05. Month Printer\\05. Month Printer.csproj|c:\\users\\sabridurmaz-pc\\source\\repos\\basic syntax, conditional statements and loops - lab\\05. month printer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16ABF1E6-918B-4985-B0B2-9258C09BED63}|05. Month Printer\\05. Month Printer.csproj|solutionrelative:05. month printer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC766505-7DF0-466B-A7F5-73487E66691A}|04. Back In 30 Minutes\\04. Back In 30 Minutes.csproj|c:\\users\\sabridurmaz-pc\\source\\repos\\basic syntax, conditional statements and loops - lab\\04. back in 30 minutes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC766505-7DF0-466B-A7F5-73487E66691A}|04. Back In 30 Minutes\\04. Back In 30 Minutes.csproj|solutionrelative:04. back in 30 minutes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56129F48-1BC5-455F-A9F6-0E909880F249}|03. Passed or Failed\\03. Passed or Failed.csproj|c:\\users\\sabridurmaz-pc\\source\\repos\\basic syntax, conditional statements and loops - lab\\03. passed or failed\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56129F48-1BC5-455F-A9F6-0E909880F249}|03. Passed or Failed\\03. Passed or Failed.csproj|solutionrelative:03. passed or failed\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A39182D4-9BA1-48CD-B27C-6CA01885A248}|02. Passed\\02. Passed.csproj|c:\\users\\sabridurmaz-pc\\source\\repos\\basic syntax, conditional statements and loops - lab\\02. passed\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A39182D4-9BA1-48CD-B27C-6CA01885A248}|02. Passed\\02. Passed.csproj|solutionrelative:02. passed\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{433C5698-5308-45F6-9CA6-136ABC9AAF2A}|01. Student Information\\01. Student Information.csproj|c:\\users\\sabridurmaz-pc\\source\\repos\\basic syntax, conditional statements and loops - lab\\01. student information\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{433C5698-5308-45F6-9CA6-136ABC9AAF2A}|01. Student Information\\01. Student Information.csproj|solutionrelative:01. student information\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\Basic Syntax, Conditional Statements and Loops - Lab\\09. Sum of Odd Numbers\\Program.cs",
+              "RelativeDocumentMoniker": "09. Sum of Odd Numbers\\Program.cs",
+              "ToolTip": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\Basic Syntax, Conditional Statements and Loops - Lab\\09. Sum of Odd Numbers\\Program.cs",
+              "RelativeToolTip": "09. Sum of Odd Numbers\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T10:37:36.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\Basic Syntax, Conditional Statements and Loops - Lab\\08. Divisible by 3\\Program.cs",
+              "RelativeDocumentMoniker": "08. Divisible by 3\\Program.cs",
+              "ToolTip": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\Basic Syntax, Conditional Statements and Loops - Lab\\08. Divisible by 3\\Program.cs",
+              "RelativeToolTip": "08. Divisible by 3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T10:37:14.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\Basic Syntax, Conditional Statements and Loops - Lab\\07. Theatre Promotion\\Program.cs",
+              "RelativeDocumentMoniker": "07. Theatre Promotion\\Program.cs",
+              "ToolTip": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\Basic Syntax, Conditional Statements and Loops - Lab\\07. Theatre Promotion\\Program.cs",
+              "RelativeToolTip": "07. Theatre Promotion\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T10:36:43.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\Basic Syntax, Conditional Statements and Loops - Lab\\06. Foreign Languages\\Program.cs",
+              "RelativeDocumentMoniker": "06. Foreign Languages\\Program.cs",
+              "ToolTip": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\Basic Syntax, Conditional Statements and Loops - Lab\\06. Foreign Languages\\Program.cs",
+              "RelativeToolTip": "06. Foreign Languages\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T10:35:24.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\Basic Syntax, Conditional Statements and Loops - Lab\\05. Month Printer\\Program.cs",
+              "RelativeDocumentMoniker": "05. Month Printer\\Program.cs",
+              "ToolTip": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\Basic Syntax, Conditional Statements and Loops - Lab\\05. Month Printer\\Program.cs",
+              "RelativeToolTip": "05. Month Printer\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T10:34:46.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\Basic Syntax, Conditional Statements and Loops - Lab\\04. Back In 30 Minutes\\Program.cs",
+              "RelativeDocumentMoniker": "04. Back In 30 Minutes\\Program.cs",
+              "ToolTip": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\Basic Syntax, Conditional Statements and Loops - Lab\\04. Back In 30 Minutes\\Program.cs",
+              "RelativeToolTip": "04. Back In 30 Minutes\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T10:34:09.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\Basic Syntax, Conditional Statements and Loops - Lab\\03. Passed or Failed\\Program.cs",
+              "RelativeDocumentMoniker": "03. Passed or Failed\\Program.cs",
+              "ToolTip": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\Basic Syntax, Conditional Statements and Loops - Lab\\03. Passed or Failed\\Program.cs",
+              "RelativeToolTip": "03. Passed or Failed\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T10:31:57.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\Basic Syntax, Conditional Statements and Loops - Lab\\02. Passed\\Program.cs",
+              "RelativeDocumentMoniker": "02. Passed\\Program.cs",
+              "ToolTip": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\Basic Syntax, Conditional Statements and Loops - Lab\\02. Passed\\Program.cs",
+              "RelativeToolTip": "02. Passed\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T10:32:43.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\Basic Syntax, Conditional Statements and Loops - Lab\\01. Student Information\\Program.cs",
+              "RelativeDocumentMoniker": "01. Student Information\\Program.cs",
+              "ToolTip": "C:\\Users\\SabriDurmaz-PC\\source\\repos\\Basic Syntax, Conditional Statements and Loops - Lab\\01. Student Information\\Program.cs",
+              "RelativeToolTip": "01. Student Information\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T10:24:10.211Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
